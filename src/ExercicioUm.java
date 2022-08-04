@@ -39,7 +39,7 @@ public class ExercicioUm {
                 int nota3 = 7;
                 double media = (double) (nota1 + nota2 + nota3) / 3;
     
-                System.out.println("Média");
+                System.out.println("Médiaa");
                 System.out.println("Primeira Nota: " + nota1);
                 System.out.println("Segunda Nota: " + nota2);
                 System.out.println("Terceira Nota: " + nota3);
